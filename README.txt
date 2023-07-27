@@ -1,0 +1,1 @@
+Aplicação básica para criação de uma rede blockchain, uma cryptocurrency e um contrato (para a total funcionalidade)
